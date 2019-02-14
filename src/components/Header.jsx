@@ -5,7 +5,7 @@ function Header(){
   return (
     <div>
       <h1>Farmers Market</h1>
-      <Link to="/">Home</Link> | <Link to="/newticket">Create Ticket</Link>
+      <Link to="/">Home</Link> | <Link to="/seasonalproduce">Seasonal Produce</Link>
     </div>
   );
 }
