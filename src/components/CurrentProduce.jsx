@@ -5,7 +5,7 @@ import PropTypes from 'prop-types';
 function CurrentProduce(props){
   var produceStyle = {
     border: '1px solid #4d8c3c',
-    padding: '10',
+    padding: 10,
     textAlign: 'center'
   };
 

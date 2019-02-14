@@ -5,6 +5,7 @@ import { Switch, Route } from 'react-router-dom';
 import SeasonalProduce from './SeasonalProduce';
 // import SideBar from './SideBar';
 
+
 function App(){
   return (
     <div>
